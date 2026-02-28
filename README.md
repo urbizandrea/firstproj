@@ -6,7 +6,7 @@ The project focuses on Perishable Goods Management and examines detailed informa
 Currently, the waste of perishable goods exceeds 20%, which is more than the double of the recommended threshold of 10%.
 
 ## Dataset Overview
-The dataset, sourced from Kaggle.com, covers transactions from 2023 to 2024 across 20 stores located in 5 regions of the United States. It includes information on 10 product categories, inventory movements, logistics scores, profits, and costs.
+The dataset, sourced from Kaggle, covers transactions from 2023 to 2024 across 20 stores located in 5 regions of the United States. It includes information on 10 product categories, inventory movements, logistics scores, profits, and costs. (Dataset link: https://www.kaggle.com/datasets/likithagedipudi/perishable-goods-management)
 
 ## Methodology
 1. Python - Data cleaning and transformation
